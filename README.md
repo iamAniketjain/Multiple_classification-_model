@@ -1,7 +1,7 @@
 # Machine Learning Assignment 2 — Breast Cancer Classification
 
 > **GitHub:** [Multiple Classification Model](https://github.com/iamAniketjain/Multiple_classification-_model)  
-> **Live Streamlit App:** [ismassingment2.streamlit.app](https://ismassingment2.streamlit.app/)
+> **Live Streamlit App:** [ismassingment2.streamlit.app](https://mlassingment2.streamlit.app/)
 
 ## a. Problem statement
 Build and evaluate five classification algorithms on one common dataset, then provide an interactive Streamlit application that evaluates a saved model on a supplied test CSV. The application does not retrain on uploaded test data.
@@ -95,7 +95,7 @@ This recreates the five saved model files, `test_data.csv`, and `model_metrics.c
 2. Open https://share.streamlit.io/ and sign in with GitHub.
 3. Select **New app**, choose the repository and `main` branch.
 4. Set the main file path to `app.py`, then deploy.
-5. Live deployed application: [https://ismassingment2.streamlit.app/](https://ismassingment2.streamlit.app/).
+5. Live deployed application: [https://ismassingment2.streamlit.app/](https://mlassingment2.streamlit.app/).
 
 ## Project links
 - **GitHub repository:** https://github.com/iamAniketjain/Multiple_classification-_model
