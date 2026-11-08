@@ -1,5 +1,8 @@
 # Machine Learning Assignment 2 — Breast Cancer Classification
 
+> **GitHub:** [Multiple Classification Model](https://github.com/iamAniketjain/Multiple_classification-_model)  
+> **Live Streamlit App:** [ismassingment2.streamlit.app](https://ismassingment2.streamlit.app/)
+
 ## a. Problem statement
 Build and evaluate five classification algorithms on one common dataset, then provide an interactive Streamlit application that evaluates a saved model on a supplied test CSV. The application does not retrain on uploaded test data.
 
@@ -15,7 +18,7 @@ Build and evaluate five classification algorithms on one common dataset, then pr
 The dataset meets the assignment minimum of 500 instances and 12 features.
 
 ## c. GitHub Repository Link
-**Add your repository URL here after creating and pushing the GitHub repository.**
+[Multiple Classification Model — GitHub Repository](https://github.com/iamAniketjain/Multiple_classification-_model)
 
 ## d. Models used and evaluation
 
@@ -92,13 +95,15 @@ This recreates the five saved model files, `test_data.csv`, and `model_metrics.c
 2. Open https://share.streamlit.io/ and sign in with GitHub.
 3. Select **New app**, choose the repository and `main` branch.
 4. Set the main file path to `app.py`, then deploy.
-5. Add the live app URL to the final submission PDF.
+5. Live deployed application: [https://ismassingment2.streamlit.app/](https://ismassingment2.streamlit.app/).
 
-## Submission items still requiring your account
-- GitHub repository URL: add after pushing the files.
-- Live Streamlit URL: add after deployment.
-- BITS Virtual Lab execution screenshot: capture it while running the assignment in your BITS Virtual Lab.
-- Export this README content into the single PDF submission, in the order required by the assignment.
+## Project links
+- **GitHub repository:** https://github.com/iamAniketjain/Multiple_classification-_model
+- **Live Streamlit application:** https://ismassingment2.streamlit.app/
+
+## Final submission checklist
+- [x] GitHub repository created and project source code uploaded.
+- [x] Streamlit application deployed.
 
 ## Academic integrity and reproducibility
 Use this as a learning and implementation starting point. Run the code yourself in BITS Virtual Lab, inspect the outputs, customize the interface and analysis in your own words, maintain your own Git commit history, and verify the deployment before submitting. Do not submit links or screenshots that you have not personally created and checked.
