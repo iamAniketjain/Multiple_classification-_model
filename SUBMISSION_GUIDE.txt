@@ -1,0 +1,8 @@
+Before submitting:
+1. Open this folder in BITS Virtual Lab and run train_models.py.
+2. Run `streamlit run app.py` and test all five model options using test_data.csv.
+3. Push the project folder to your own GitHub repository.
+4. Deploy app.py using Streamlit Community Cloud.
+5. Capture the required BITS Virtual Lab screenshot.
+6. Replace the GitHub URL placeholder in README.md and add your live app URL.
+7. Put the README content, repository link, live app link, and screenshot into one PDF in the assignment's required order.
